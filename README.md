@@ -1,4 +1,12 @@
-### Hi there 👋
+🤞 Nice way to meet me
+   
+
+👋  Hi there! I'm full stack developer skilled in API, WEB, and APP.🚀
+if you want to know me, please click above link 🫧
+
+<br><br>
+# 💥 Skills
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
 **Jeoniee/Jeoniee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
