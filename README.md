@@ -8,7 +8,7 @@
 
 
 👋  Hi there! I'm full stack developer skilled in API, WEB, and APP.🚀
-if you want to know me, please click above link 🫧
+if you want to know me more, please click above link 🫧
 
 <br><br>
 # 💥 Skills
