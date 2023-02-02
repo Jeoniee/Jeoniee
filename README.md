@@ -1,5 +1,11 @@
 🤞 Nice way to meet me
-   
+
+<a href="https://jeoniee.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://jeoniee.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 
 👋  Hi there! I'm full stack developer skilled in API, WEB, and APP.🚀
 if you want to know me, please click above link 🫧
