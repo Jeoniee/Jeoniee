@@ -3,7 +3,7 @@
 
 
 
-👋  Hi 
+👋  Bye  
 <!-- there! I'm Back-end developer skilled in API, WEB, and APP.🚀
 if you want to know me more, please click above link 🫧 
 
@@ -12,10 +12,10 @@ if you want to know me more, please click above link 🫧
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://jeoniee.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
--->
+
 
 <br><br>
-# 💥 Skills
+# 💥 Skills-->
 <!--
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>-->
 
