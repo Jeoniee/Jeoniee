@@ -1,18 +1,23 @@
-🤞 Nice way to meet me
+
+
+
+
+
+👋  Hi 
+<!-- there! I'm Back-end developer skilled in API, WEB, and APP.🚀
+if you want to know me more, please click above link 🫧 
 
 <a href="https://jeoniee.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://jeoniee.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
-
-👋  Hi there! I'm Back-end developer skilled in API, WEB, and APP.🚀
-if you want to know me more, please click above link 🫧
+-->
 
 <br><br>
 # 💥 Skills
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<!--
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>-->
 
 <!--
 **Jeoniee/Jeoniee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
